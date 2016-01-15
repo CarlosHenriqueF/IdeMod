@@ -1,3 +1,3 @@
 Version : 1.6;
-UrlApk : www.google.com;
+UrlApk : https://www.google.com;
 Changelong : test;
